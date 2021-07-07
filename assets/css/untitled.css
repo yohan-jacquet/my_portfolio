@@ -1,0 +1,16 @@
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #a6cb2b;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #a6cb2b;
+  border-color: #a6cb2b;
+}
+
+.btn-primary:active, .btn-primary:hover {
+  background-color: #a6cb2b;
+  border-color: #a6cb2b;
+  color: #a6cb2b;
+}
+
